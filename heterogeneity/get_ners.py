@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 
 
-DATA_DIR = "data/"
+DATA_DIR = "../data/"
 TOP_N = 150
 
 people_df = pd.DataFrame()
@@ -33,8 +33,6 @@ for split in ("train", "test"):
         axis=0,
         ignore_index=True
     )
-    
-    #print(people_df_split)
 
 fig = px.bar(
     data_frame=people_df,
