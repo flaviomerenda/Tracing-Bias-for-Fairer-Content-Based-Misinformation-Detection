@@ -78,4 +78,4 @@ To cite this research please use the following:
 
 ## ![Expert.ai favicon](https://www.expert.ai/wp-content/uploads/2020/09/favicon-1.png) Expert.ai
 
-At Expert.ai we turn language into data so humans can make better decisions. Take a look [here](https://expert.ai)!
+At Expert.ai we turn language into data so humans can make better decisions. Take a look [here](https://www.expert.ai)!
