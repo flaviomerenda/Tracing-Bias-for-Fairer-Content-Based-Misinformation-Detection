@@ -1,4 +1,4 @@
-# Tracing Bias for Fairer Content Based Misinformation Detection
+# Tracing Bias for Fairer Content-Based Misinformation Detection
 
 ![License](https://img.shields.io/badge/License-ISC-blue.svg) ![Python 3.9](https://badgen.net/pypi/python/black)
 
